@@ -1,2 +1,2 @@
 run project from jNewFrame4
-java jNewFrame4
+ex. java jNewFrame4
